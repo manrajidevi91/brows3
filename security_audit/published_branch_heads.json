@@ -1,0 +1,13 @@
+{
+  "default_ref": "refs/heads/main",
+  "branches": [
+    {
+      "ref": "refs/heads/Minio-Video-auto-Uploading",
+      "head": "715407f088bdf6442560579438834aee60cfd3c9"
+    },
+    {
+      "ref": "refs/heads/main",
+      "head": "bf8af514e67185bd8d141ccc20fb5a9e109a0642"
+    }
+  ]
+}
